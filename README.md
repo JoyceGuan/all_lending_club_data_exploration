@@ -8,4 +8,4 @@ We made some density plots to observe the skewness and distribution of our datas
 
 3. Regression: OLS and Logit Model
 
-4.Robustness Checks: Breusch-Pagan Test
+4.Robustness Checks: Breusch-Pagan Test for Heteroskedasticity 
